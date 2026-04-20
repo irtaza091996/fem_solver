@@ -10,7 +10,7 @@ The solver handles the **reaction-diffusion equation** on a rectangular domain �
 
 ```
 a(x,y) · u  −  ∇ · ( b(x,y) · ∇u )  =  f(x,y)    in Ω
-u = 0                                              on ∂Ω
+u = 0                                            on ∂Ω
 ```
 
 | Term | Name | Effect |
